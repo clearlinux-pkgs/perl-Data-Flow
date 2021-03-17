@@ -4,7 +4,7 @@
 #
 Name     : perl-Data-Flow
 Version  : 1.02
-Release  : 4
+Release  : 5
 URL      : https://cpan.metacpan.org/authors/id/I/IL/ILYAZ/modules/Data-Flow-1.02.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/I/IL/ILYAZ/modules/Data-Flow-1.02.tar.gz
 Source1  : http://cdn-fastly.deb.debian.org/debian/pool/main/libd/libdata-flow-perl/libdata-flow-perl_1.02-2.debian.tar.xz
@@ -100,5 +100,5 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.3/Data/Flow.pm
-/usr/lib/perl5/vendor_perl/5.30.3/auto/Data/Flow/autosplit.ix
+/usr/lib/perl5/vendor_perl/5.32.1/Data/Flow.pm
+/usr/lib/perl5/vendor_perl/5.32.1/auto/Data/Flow/autosplit.ix
