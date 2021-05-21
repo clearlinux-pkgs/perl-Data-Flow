@@ -4,7 +4,7 @@
 #
 Name     : perl-Data-Flow
 Version  : 1.02
-Release  : 5
+Release  : 6
 URL      : https://cpan.metacpan.org/authors/id/I/IL/ILYAZ/modules/Data-Flow-1.02.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/I/IL/ILYAZ/modules/Data-Flow-1.02.tar.gz
 Source1  : http://cdn-fastly.deb.debian.org/debian/pool/main/libd/libdata-flow-perl/libdata-flow-perl_1.02-2.debian.tar.xz
